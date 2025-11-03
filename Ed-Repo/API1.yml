@@ -1,7 +1,7 @@
 kind: API
 apiVersion: api.ibm.com/v1
 metadata:
-  name: API1
+  name: API11
   namespace: Ed-Repo
   version: '1.0'
   tags: []
